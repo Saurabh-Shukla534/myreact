@@ -1,0 +1,13 @@
+.hello {
+    color: rgb(255, 255, 255);
+    background-color:#282c34;
+    padding: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+.rest {
+    color: rgb(19, 14, 15);
+    background-color:#848d9e;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
